@@ -14,7 +14,7 @@ that is not due to known backgrounds.
 - [ ] Adapt seed searching algorithm to CCD data structure
 - [ ] (Optional) 2D Wiener filter for gaussian noise
 - [ ] obtain # of clusters, coord and eng for each cluster
-- [ ] simple analysis for clusters' info, mean, variance, skewness and kurtosis
+- [ ] simple analysis for clusters' info, mean, variance, energy weighted variance, skewness and kurtosis
 - [ ] simple cut to remove high energy clusters
 - [ ] train a simple DNN for cluster classification
 - [ ] (Optional) train a simple CNN for cluster image classification
