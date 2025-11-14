@@ -10,4 +10,14 @@ that is not due to known backgrounds.
 [Link to the presentation slides](https://docs.google.com/presentation/d/1dNcROH93DtQTYrapNP97WJvjPKGtNPputfOqOiXmO6k/edit?usp=sharing)  
 [Link to the Sensei analysis code](https://github.com/sensei-skipper/AstroSkipper_Tools/tree/main/Analysis)
 
+## TODOs
+- [ ] Adapt seed searching algorithm to CCD data structure
+- [ ] (Optional) 2D Wiener filter for gaussian noise
+- [ ] obtain # of clusters, coord and eng for each cluster
+- [ ] simple analysis for clusters' info, mean, variance, skewness and kurtosis
+- [ ] simple cut to remove high energy clusters
+- [ ] train a simple DNN for cluster classification
+- [ ] (Optional) train a simple CNN for cluster image classification
+
+
 
